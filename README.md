@@ -1,7 +1,7 @@
 <h1 align="center">Brandon Lo</h1>
 <h3 align="center">Senior CSE Student at UCLA. SDE @ AWS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=atijmahesh&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonlo11&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
 - 🔭 I’m currently working on [the AWS Neuron tools and containers team](https://aws.amazon.com/ai/machine-learning/neuron/)
 
