@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonlo11&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently working on [the AWS Neuron tools and containers team](https://aws.amazon.com/ai/machine-learning/neuron/)
+- 🔭 I’m currently working on the AVID (Display Ads) Resource Efficiency Team at **Google**
 
 - 🌱 I’m currently learning **software development skills, ML, and AI**
 
