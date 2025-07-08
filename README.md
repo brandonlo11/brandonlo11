@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking to collaborate on **new and exciting projects and/or companies**
 
-- 📫 How to reach me: **brandonlo2003@yahoo.com**
+- 📫 How to reach me: **brandonlo11@g.ucla.edu**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
