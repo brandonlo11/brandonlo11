@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brandonlo11&label=Profile%20views&color=0e75b6&style=flat" alt="atijmahesh" /> </p>
 
-- 🔭 I’m currently working on the AVID (Display Ads) Infrastructure Team at **Google**
+- 🔭 I’m currently working on the AViD (Display Ads) Infrastructure Team at **Google**
 
 - 🌱 I’m currently learning **software development skills, ML, and AI**
 
